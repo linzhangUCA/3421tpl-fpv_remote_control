@@ -21,3 +21,4 @@ Define keys associate with specific robot's movements (e.g., forward(),left(), r
 - [pynput](https://pypi.org/project/pynput/) package.
 - [picamera2 example](https://github.com/raspberrypi/picamera2/blob/main/examples/mjpeg_server.py) for hosting live stream video.
 - [picamera2 manual](https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf)
+- [OBS (Open Broadcaster Software)](https://obsproject.com/) is a good screen recording software.
