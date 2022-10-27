@@ -9,7 +9,7 @@ Define keys associate with specific robot's movements (e.g., forward(),left(), r
 
 #### Note
 - VNC viewer is bad at streaming realtime video, so you may want to use `mjpeg_server.py` to stream video via a webserver.
-- Carefully read line 3 to line 5 in `mjpef_server.py` to figure out the usage.
+- Carefully read line 3 to line 5 in `mjpeg_server.py` to figure out the usage.
 - Drive your robot use the live streaming video. **DO NOT** follow your robot. 
 - You may want to tweek the motor speed to get a more comfortable driving experience. 
 - You can use any screen recording software to record the video.
