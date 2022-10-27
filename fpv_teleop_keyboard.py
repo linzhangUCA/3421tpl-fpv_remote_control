@@ -1,5 +1,5 @@
 """
-Remotely control your robot and drive it to the blue marker in LSCA 105
+Keyboard Control
 """
 from gpiozero import Robot
 from pynput import keyboard
